@@ -30,6 +30,7 @@ plant-disease-detection/
 ├── train_model.ipynb       # Jupyter Notebook with the full training process
 ├── plant_disease_model.keras # The final saved and trained model
 ├── requirements.txt        # A list of all necessary Python packages
+├── class_names.json       # A list of all class names
 ├── data/                   # (Not uploaded) Folder for the original dataset
 └── venv/                   # (Not uploaded) Virtual environment
 ```
