@@ -42,10 +42,9 @@ To run the web application on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/plant-disease-detection.git](https://github.com/your-username/plant-disease-detection.git)
+    git clone [https://github.com/busebaser/plant-disease-detection.git](https://github.com/busebaser/plant-disease-detection.git)
     cd plant-disease-detection
     ```
-    *(Remember to replace `your-username` with your actual GitHub username.)*
 
 2.  **Create and activate a virtual environment:**
     ```bash
